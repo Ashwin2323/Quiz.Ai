@@ -70,7 +70,16 @@ The app uses a dual-theme system via CSS Variables:
 ## AI Prompts Used
 
 **Question Generation:**
-> "Generates 5 high-quality, engaging multiple-choice questions about recommended topics and any custom topic. Difficulty: Intermediate to Advanced."
+> "Generate 5 high-quality, engaging multiple-choice questions about "${topic}". 
+      Guidelines:
+      1. Difficulty: Intermediate to Advanced. Avoid trivial or obvious questions.
+      2. Style: Focus on scenarios, application of concepts, or interesting facts rather than simple definitions.
+      3. Structure: Ensure questions are clear and unambiguous.
+      4. Options: Provide exactly 4 distinct options per question. One must be clearly correct, and the other three should be plausible distractors.
+      5. Variety: Cover diverse aspects of the topic to test comprehensive knowledge."
 
 **Feedback Generation:**
-> "Provides a witty, helpful, and concise feedback message... If the score is low, be encouraging..."
+> "The user took a quiz on "${topic}" and scored ${score} out of ${total}. 
+      Provide a witty, helpful, and concise feedback message (max 2 sentences). 
+      If the score is low, be encouraging and suggest a key area to study. 
+      If the score is high, be congratulatory and mention a specific advanced concept related to the topic they might enjoy next."
