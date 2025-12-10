@@ -83,3 +83,6 @@ The app uses a dual-theme system via CSS Variables:
       Provide a witty, helpful, and concise feedback message (max 2 sentences). 
       If the score is low, be encouraging and suggest a key area to study. 
       If the score is high, be congratulatory and mention a specific advanced concept related to the topic they might enjoy next."
+
+## Bonus Work
+> Added dark mode for user comfort and added custom topic input field for freedom of choice of topic for the user.
