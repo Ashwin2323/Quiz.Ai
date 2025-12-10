@@ -17,6 +17,17 @@ A futuristic, AI-powered knowledge assessment platform built with React, Tailwin
 *   **State Management**: React `useState` for handling app flow and theme preference.
 
 ## Screenshots
+*   **Screenshot 1**
+*   ![WhatsApp Image 2025-12-10 at 16 25 53_8e2c2da9](https://github.com/user-attachments/assets/e1fe5eef-cd8b-46d4-9646-3594cea4656d)
+*   **Screenshot 2**
+*   ![WhatsApp Image 2025-12-10 at 16 27 09_3bebb90a](https://github.com/user-attachments/assets/fb06cfa2-7709-41f7-b33a-cfb096ce698f)
+*   **Screenshot 3**
+*   ![WhatsApp Image 2025-12-10 at 16 28 07_c2ab9db3](https://github.com/user-attachments/assets/b92c7b92-a723-47ca-9c76-8dc49dfd8f5c)
+*   **Screenshot 4**
+*   ![WhatsApp Image 2025-12-10 at 16 28 28_08204098](https://github.com/user-attachments/assets/9a852142-53ba-4517-924d-7f3a9e7873c5)
+*   **Screenshot 5**
+*   ![WhatsApp Image 2025-12-10 at 16 29 02_a55de264](https://github.com/user-attachments/assets/6ff1227d-6a6c-4700-91f9-27f48a2fa184)
+
 
 ## Getting Started
 
@@ -59,7 +70,7 @@ The app uses a dual-theme system via CSS Variables:
 ## AI Prompts Used
 
 **Question Generation:**
-> "Generates 5 high-quality, engaging multiple-choice questions about recommended topics and any custome topic. Difficulty: Intermediate to Advanced..."
+> "Generates 5 high-quality, engaging multiple-choice questions about recommended topics and any custom topic. Difficulty: Intermediate to Advanced."
 
 **Feedback Generation:**
 > "Provides a witty, helpful, and concise feedback message... If the score is low, be encouraging..."
